@@ -1,9 +1,11 @@
-# Notes in Machine Learning with Python (1)
+# Notes in Machine Learning with Python
+---
 ## Environment Problem
 + [numpy and scipy](https://www.zhihu.com/question/30188492?sort=created "problem on windows")
 + normal ones:pip install pandas quandl sklearn numpy matplotlib
 + [pythonprogramming.net](https://pythonprogramming.net/ "Great")
 + [github](https://github.com/ProHiryu/Coursera_courses/tree/master/courses/Machine%20Learning%20with%20Python)
+
 ## Regression
 + [reference](http://pandas.pydata.org/pandas-docs/stable/indexing.html)
 + ``dataframe.shift(num)`` just move the dataset num times rightwards
